@@ -7,13 +7,22 @@
  */
 
 
-Console.Write("Введите целoе число: ");
-int Number = int.Parse(Console.ReadLine());
-
-
-Console.WriteLine("Вы ввели: " + Number);
-
-
-
-Console.WriteLine("Число Фибоначчи: " );
-
+// Создаю переменную Ui - User Input с запросом на ввод
+    Console.Write("Введите N последовательности Фибоначчи: ");
+    int Ui = int.Parse(Console.ReadLine());
+int[] fibon = new int[Ui];
+if(Ui > 2)
+{
+    fibon[0] = 0;
+    fibon[1] = 1;
+    for(int i = 2; i < fibon.Length; i++)
+    {
+        fibon[i] = fibon[i-2] + fibon[i-1];
+    }
+    for(int j = 0; j < fibon.Length; j++)
+    {
+        Console.Write(fibon[j] + " ");
+    }
+}
+else
+    Console.Write("Пожалуйста, введите число больше 2: первая последовательность будет 0 1 для первых значений");
