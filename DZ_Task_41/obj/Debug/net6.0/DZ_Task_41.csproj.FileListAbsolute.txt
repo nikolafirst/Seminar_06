@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\bin\Debug\net6.0\DZ_Task_41.exe
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\bin\Debug\net6.0\DZ_Task_41.deps.json
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\bin\Debug\net6.0\DZ_Task_41.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\bin\Debug\net6.0\DZ_Task_41.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\bin\Debug\net6.0\DZ_Task_41.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\refint\DZ_Task_41.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\DZ_Task_41.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_41\obj\Debug\net6.0\ref\DZ_Task_41.dll
