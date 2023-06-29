@@ -1,0 +1,5 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_43\obj\Debug\net6.0\DZ_Task_43.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_43\obj\Debug\net6.0\DZ_Task_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_43\obj\Debug\net6.0\DZ_Task_43.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_43\obj\Debug\net6.0\DZ_Task_43.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_06\DZ_Task_43\obj\Debug\net6.0\DZ_Task_43.csproj.CoreCompileInputs.cache
